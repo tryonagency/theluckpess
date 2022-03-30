@@ -1,7 +1,8 @@
 <div align="center"> <h1>BEM VINDO AO PERFIL</h1>
 💼 Trabalhando com Drop  - 🌱 Estou atualmente aprendendo .NET  - 📈 Investindo na Bolsa de valores  - 🔖 Migrando para europa
 
-
+  ##
+  
 <a href="https://beacons.ai/theluckpess">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theluckpess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theluckpess&layout=compact&langs_count=7&theme=tokyonight"/>
